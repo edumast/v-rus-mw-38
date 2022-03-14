@@ -1,0 +1,6 @@
+n=1
+jp2a --color --chars=clodxkO0KXNWM caveira.jpg
+while [ 1 == 1 ];do
+  n=$(($n+1))
+  echo $n >> v
+done
